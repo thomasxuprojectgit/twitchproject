@@ -3,9 +3,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-src/main/java/com/twitchproject/jupiter/service/GameService.java
-src/main/java/com/twitchproject/jupiter/ApplicationConfig.java
-
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -39,3 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/com/twitchproject/jupiter/service/GameService.java
+/src/main/java/com/twitchproject/jupiter/ApplicationConfig.java
