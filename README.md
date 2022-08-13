@@ -1,3 +1,5 @@
+Demo Video: https://1drv.ms/v/s!AqkPfqbVnQR-l_hDNCa2ZWiurxGeeA?e=HRiDCC
+
 GamePlus: A Personalized Twitch Resources Recommendation Engine
  - Front End:
     - Designed and built a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations. 
