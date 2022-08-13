@@ -1,4 +1,4 @@
-Demo Video: https://1drv.ms/v/s!AqkPfqbVnQR-l_hDNCa2ZWiurxGeeA?e=HRiDCC
+Demo Video: [https://1drv.ms/v/s!AqkPfqbVnQR-l_hDNCa2ZWiurxGeeA?e=HRiDCC](https://1drv.ms/v/s!As6IPMJ-7Ua_cBCwK0ieumsCyUo?e=rGbq80)
 
 GamePlus: A Personalized Twitch Resources Recommendation Engine
  - Front End:
